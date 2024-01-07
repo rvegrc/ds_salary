@@ -1,0 +1,16 @@
+artifact_uri: file:///home/pmu/zet/obs-h/Projects_od/ds_salary/mlruns/883913715377222921/c8db11101ac5405d9576027483fe6356/artifacts
+deleted_time: 1704645094336
+end_time: 1704644766265
+entry_point_name: ''
+experiment_id: '883913715377222921'
+lifecycle_stage: deleted
+run_id: c8db11101ac5405d9576027483fe6356
+run_name: best_model
+run_uuid: c8db11101ac5405d9576027483fe6356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704644765756
+status: 4
+tags: []
+user_id: pmu
