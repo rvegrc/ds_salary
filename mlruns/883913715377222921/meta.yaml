@@ -1,0 +1,6 @@
+artifact_location: file:///home/pmu/zet/obs-h/Projects_od/ds_salary/mlruns/883913715377222921
+creation_time: 1704644289517
+experiment_id: '883913715377222921'
+last_update_time: 1704644289517
+lifecycle_stage: active
+name: salary_prediction
