@@ -1,8 +1,9 @@
 artifact_uri: file:///home/pmu/zet/obs-h/Projects_od/ds_salary/mlruns/883913715377222921/30ff358ef4ff455e84da4c4dc5185ea2/artifacts
+deleted_time: 1704685893840
 end_time: 1704644784790
 entry_point_name: ''
 experiment_id: '883913715377222921'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 30ff358ef4ff455e84da4c4dc5185ea2
 run_name: best_model
 run_uuid: 30ff358ef4ff455e84da4c4dc5185ea2
