@@ -4,3 +4,4 @@
 /mlruns
 /mlartifacts
 *.code-workspace
+/_pycache_
