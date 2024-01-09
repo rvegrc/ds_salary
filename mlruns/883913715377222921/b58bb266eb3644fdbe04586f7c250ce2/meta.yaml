@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pmu/zet/obs-h/Projects_od/ds_salary/mlruns/883913715377222921/b58bb266eb3644fdbe04586f7c250ce2/artifacts
+end_time: 1704733114957
+entry_point_name: ''
+experiment_id: '883913715377222921'
+lifecycle_stage: active
+run_id: b58bb266eb3644fdbe04586f7c250ce2
+run_name: model_oe
+run_uuid: b58bb266eb3644fdbe04586f7c250ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704733113417
+status: 3
+tags: []
+user_id: pmu
