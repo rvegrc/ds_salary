@@ -1,2 +1,2 @@
 import fastapi
-import pydanticf
+from pydantic import BaseModel
