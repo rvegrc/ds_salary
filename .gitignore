@@ -3,3 +3,5 @@
 /ext_model
 /mlruns
 /mlartifacts
+*.code-workspace
+/_pycache_
