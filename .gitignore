@@ -1,3 +1,5 @@
 .env
 /data
-/ext_model/mlartifacts
+/ext_model
+/mlruns
+/mlartifacts
